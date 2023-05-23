@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Pran Chinigura Aromatic Rice",
+    "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "unit": "kg",
+    "price": 75,
+    "quantity": 100,
+    "status": "in-stock"
+  },
+  {
+    "name": "Pran Chinigura Aromatic Rice - 50kg",
+    "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "unit": "bag",
+    "price": 60,
+    "quantity": 81,
+    "status": "in-stock"
+  },
+
+  {
+    "name": "Pran Nazirshail Rice - 5kg",
+    "description": "Pran Nazirshail Rice. Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "unit": "kg",
+    "price": 63,
+    "quantity": 70,
+    "status": "in-stock"
+  },
+
+  {
+    "name": "Fresh Chinigura Rice",
+    "description": "Fresh Chinigura Rice. Fresh and Clean, Vacuum Packed. Fresh Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "unit": "kg",
+    "price": 65,
+    "quantity": 90,
+    "status": "in-stock"
+  },
+
+  {
+    "name": "ACI Pure Miniket Rice Premium",
+    "description": "ACI Pure Miniket Rice Premium. Fresh and Clean, Vacuum Packed. ACI Pure Miniket Rice Premium can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+    "unit": "kg",
+    "price": 54,
+    "quantity": 100,
+    "status": "out-off-stock"
+  },
+
+  {
+    "name": "Fresh Fortified Soyabean Oil - 5ltr",
+    "description": "Fresh Fortified Soyabean Oil follows 3 steps of refining process-Perfect Degumming & Neutralization, Balanced De-colorization and Five steps Deodorization to ensure right ratio of Omega 3 & 6 and intact Beta-carotene in Soyabean Oil. Fresh soyabean oil contain vitamin A. Its fresh and healthy.",
+    "unit": "liter",
+    "price": 800,
+    "quantity": 125,
+    "status": "in-stock"
+  },
+  {
+    "name": "Rupchanda Fortified Soyabean Oil - 5ltr",
+    "description": "First Vitamin A fortified Soyabean Oil. Increases immunity. Strengthens bone & teeth.",
+    "unit": "liter",
+    "price": 945,
+    "quantity": 150,
+    "status": "out-off-stock"
+  },
+
+  {
+    "name": "Fresh Refined Sugar",
+    "description": "Fresh Refined sugar is a modern processes of without touching hand to protect the health of assurance. Fresh refined sugar is completely acid, fecal residues free and neat and clean, healthy, granulated sugar.",
+    "unit": "kg",
+    "price": 120,
+    "quantity": 200,
+    "status": "in-stock"
+  }
+]
